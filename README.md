@@ -1,5 +1,5 @@
 # Linear-Equations-Solver
-Linear Equations Solver. It's able to solve any complex (real) matrix with Gauss-Jordan elimination, so there is a limitation due to approximation error in many calculations.
+Linear Equations Solver. It's able to solve any complex (real) matrix with Gauss-Jordan elimination, so there is a limitation due to approximation error in many calculations and time complexity.
 
 Need to specify -in *.txt -out *.txt args
 
