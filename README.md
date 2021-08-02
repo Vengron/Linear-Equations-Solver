@@ -11,8 +11,8 @@ As input use .txt file in format:
 *of not-extended matrix
 
 For example:
-4 4
-1 2 3 4 1
-2 3 4 1 1
-3 4 1 2 1
-4 1 2 3 1
+4 4\n
+1 2 3 4 1\n
+2 3 4 1 1\n
+3 4 1 2 1\n
+4 1 2 3 1\n
